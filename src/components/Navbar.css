@@ -1,0 +1,22 @@
+.netflix_image_1{
+    height: 55px;
+}
+
+.netflix_image_2{
+    height: 25px;
+    margin-top:14px;
+    margin-right: 10px;
+}
+.navbar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    height:auto;
+    transition-timing-function: ease-in;
+    transition: all 0.5s;
+}
+.nav_black{
+    background-color: rgb(17, 16, 16);
+}
